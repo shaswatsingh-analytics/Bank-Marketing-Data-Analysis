@@ -1,4 +1,4 @@
-# 📊 Bank Marketing Data Analysis 
+# 📊 Bank Marketing Data Evaluation & Predictive Insights
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shaswatsinghda27/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
